@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="wallpaper">
+    <file>arkaplan.jpg</file>
+  </qresource>
+  <qresource prefix="wallpaper2">
+    <file>ap.jpg</file>
+  </qresource>
+</RCC>
