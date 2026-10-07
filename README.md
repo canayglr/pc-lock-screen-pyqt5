@@ -6,11 +6,11 @@
 ![PyQt5](https://img.shields.io/badge/PyQt5-GUI-41CD52?logo=qt&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
-**🇬🇧 English** · [🇹🇷 Türkçe](#-türkçe)
+**<img src="https://raw.githubusercontent.com/canayglr/canayglr/main/assets/flags/gb.png" height="14" alt="EN"/> English** · [<img src="https://raw.githubusercontent.com/canayglr/canayglr/main/assets/flags/tr.png" height="14" alt="TR"/> Türkçe](#tr)
 
 </div>
 
-## 🇬🇧 Overview
+## <img src="https://raw.githubusercontent.com/canayglr/canayglr/main/assets/flags/gb.png" height="14" alt="EN"/> Overview
 A full-screen lock screen that starts with Windows and **asks for a password before the computer can be used**. After a successful login the user picks a session length (**unlimited, 30 minutes or 1 hour**) and the PC shuts down automatically when the time is up. This makes it useful as a simple screen-time / parental-control tool.
 
 **Features**
@@ -30,7 +30,9 @@ A full-screen lock screen that starts with Windows and **asks for a password bef
 | `proje/arayuz.py` | Session length selection + shutdown timer |
 | `proje/*.ui` | Qt Designer layouts |
 
-## 🇹🇷 Türkçe
+<a name="tr"></a>
+
+## <img src="https://raw.githubusercontent.com/canayglr/canayglr/main/assets/flags/tr.png" height="14" alt="TR"/> Türkçe
 Windows açılışında başlayan ve **bilgisayar kullanılmadan önce şifre isteyen** tam ekran bir kilit ekranı. Şifre doğru girildiğinde kullanıcı oturum süresini seçer (**süresiz, 30 dakika veya 1 saat**) ve süre dolunca bilgisayar otomatik olarak kapanır. Bu yönüyle basit bir ekran süresi ya da ebeveyn denetimi aracı olarak kullanılabilir.
 
 **Kurulum**
